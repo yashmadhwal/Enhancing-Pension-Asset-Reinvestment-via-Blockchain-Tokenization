@@ -115,3 +115,31 @@ _Note_: In this tutorial, we will be working with Binance, therefore the above l
 └── README.md            # Project documentation
 ```
 
+---
+## **Available Commands**
+
+The following commands are available to help you set up, test, deploy, and verify the smart contracts:
+
+| Command                  | Description                                   |
+|--------------------------|-----------------------------------------------|
+| `npm install`            | Install project dependencies                 |
+| `npx hardhat compile`    | Compile Solidity contracts                   |
+| `npx hardhat test`       | Run all unit tests                           |
+| `npx hardhat node`       | Start a local Hardhat blockchain             |
+| `npx hardhat deploy`       | Execute deployment or other custom scripts   |
+| `npx hardhat verify`     | Verify deployed contracts on block explorers |
+
+---
+
+## Contributing
+
+Feel free to fork this repository, create a branch, and submit a pull request. Contributions are welcome!
+
+---
+
+## License
+This project is licensed under the MIT License. _This version is comprehensive, covering all aspects including setup, deployment, verification, and key commands. It ensures clarity and usability for developers working with the project._
+
+---
+
+
